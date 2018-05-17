@@ -1,3 +1,25 @@
 <resources>
-    <string name="app_name">EasyMoney</string>
+    <string name="app_name">Easy Money</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="nav_left_dashboard">Dashboard</string>
+    <string name="nav_left_investments">Investments</string>
+    <string name="nav_left_reports">Reports</string>
+    <string name="nav_left_expenses">Expenses</string>
+    <string name="nav_left_settings">Settings</string>
+
+    <string-array name="expenses_array_categories">
+        <item>Food</item>
+        <item>Health</item>
+        <item>Cats</item>
+        <item>Education</item>
+        <item>Rent</item>
+        <item>Electricity</item>
+        <item>Water</item>
+    </string-array>
 </resources>
